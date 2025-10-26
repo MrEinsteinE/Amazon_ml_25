@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.env/
+.venv/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large outputs and models
+outputs/
+models/
+*.npy
+
+# Python packaging
+pip-wheel-metadata/
+
+# Logs and temp
+*.log
+tmp/
+
+# IDE
+.vscode/
+
+# Ignore compiled c extensions
+*.so
+
+# Ignore node modules if any
+node_modules/
